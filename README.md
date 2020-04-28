@@ -1,2 +1,2 @@
 # OS
-Collection of OS image files I use for installation and drive-booting
+Collection of OS configuration files and installation scripts I use for installation and when booting from images.
